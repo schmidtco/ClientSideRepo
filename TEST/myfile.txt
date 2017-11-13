@@ -1,2 +1,2 @@
-this is a text file
 this line is added on the server
+first line removed and this line added
